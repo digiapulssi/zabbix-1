@@ -22,3 +22,4 @@ for Oracle Enterprise Linux 7:
 - lockfile-progs-0.1.15-7.el7.x86_64.rpm
 - perl-mime-construct-1.11-13.el7.noarch.rpm
 - perl-Proc-WaitStat-1.00-13.el7.noarch.rpm
+- perl-IPC-Signal-1.00-13.el7.noarch.rpm
