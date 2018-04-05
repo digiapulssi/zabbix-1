@@ -18,6 +18,7 @@ Install agent
 Packages needed
 -----
 for Oracle Enterprise Linux 7:
+- logcheck-1.3.15-2.el7.noarch.rpm (https://centos.pkgs.org/7/epel-x86_64/logcheck-1.3.15-2.el7.noarch.rpm.html)
 - lockfile-progs-0.1.15-7.el7.x86_64.rpm
 - perl-mime-construct-1.11-13.el7.noarch.rpm
-- logcheck-1.3.15-2.el7.noarch.rpm
+- perl-Proc-WaitStat-1.00-13.el7.noarch.rpm
